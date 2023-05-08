@@ -67,6 +67,11 @@ We are also asked to visualize the Data and present them in either a matplotlib 
     3. I created a new calculated field in order to find the sales percentage.
     4. A bubble chart visualizing the Sales Percentage per store.
     5. A bar chart visualizing the Sales Percentage per store.
+    
+    (Follow the link below to see the Tableau visualization)
+    
+
+[](https://public.tableau.com/app/profile/george.ch./viz/DataAnalyst2023Workearly-FinalAssignment/LiquorStoresDashboard?publish=yes)
 
 ---
 
