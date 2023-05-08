@@ -71,7 +71,7 @@ We are also asked to visualize the Data and present them in either a matplotlib 
     (Follow the link below to see the Tableau visualization)
     
 
-[](https://public.tableau.com/app/profile/george.ch./viz/DataAnalyst2023Workearly-FinalAssignment/LiquorStoresDashboard?publish=yes)
+https://public.tableau.com/app/profile/george.ch./viz/DataAnalyst2023Workearly-FinalAssignment/LiquorStoresDashboard?publish=yes
 
 ---
 
