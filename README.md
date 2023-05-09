@@ -15,8 +15,8 @@ We are also asked to visualize the Data and present them in either a matplotlib 
     
     ```sql
     SELECT * 
-    FROM `finance_liquor_sales` 
-    WHERE `date` BETWEEN '2016-01-01' AND '2020-01-01';
+    FROM finance_liquor_sales 
+    WHERE date BETWEEN '2016-01-01' AND '2020-01-01';
     ```
     
 3. Then, I extracted the results to a csv file.
