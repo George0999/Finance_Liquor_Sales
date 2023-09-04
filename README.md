@@ -59,6 +59,9 @@ We are also asked to visualize the Data and present them in either a matplotlib 
     plt.show()
     ```
     
+![finance liquor sales](https://github.com/George0999/Finance_Liquor_Sales/assets/126425574/373ddbcb-7ad3-4f4b-8053-8ac9a647cf9e)
+
+    
 8. Finally, using the Tableau, I imported the same csv file and created a Dashboard showing the following:
     1. A map with bottles sold.
     2. A table showing the number of bottles sold per item and zip code.
